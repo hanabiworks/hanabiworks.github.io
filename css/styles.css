@@ -20,8 +20,10 @@ header {
 	width: 10%;
 	float: left;
 	line-height: 100px;
-	position: left;
+	position: left;	
 }
+
+	/*Hanabi Works*/
 .logo a {
 	text-decoration: none;
 	font-size: 30px;
@@ -33,6 +35,8 @@ nav {
 	float: right;
 	line-height: 100px;
 }
+
+	/* Yosuga No Sora e DISCORD */
 nav a {
 	text-decoration: none;
 	font-family: poppins;
@@ -63,7 +67,7 @@ nav a {
 	position: relative;
 	top: 400px;
 	background: #ebebeb;
-	height: 1500px;
+	height: 2050px;
 	font-size: 20px;
 }
 .content-area h2 {
@@ -85,4 +89,9 @@ nav a {
 	line-height: 30px;
 	font-size: 20px;
 }
-.content-area  
+.gallery img {
+    max-width:300px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+} 
