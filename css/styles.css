@@ -95,7 +95,13 @@ nav a {
     max-height:300px;
     width: auto;
     height: auto;
-} 
+	transition: all 0.5s;
+	cursor: pointer;
+}
+.gallery img:hover {
+	-webkit-transform: scale(1.5);
+    transform: scale(1.2);
+}
 .download {
 	position: relative;
 	padding: 10px 30px;
