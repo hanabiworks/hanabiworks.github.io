@@ -224,16 +224,16 @@ nav{
 	letter-spacing: 4px;
 	padding-top: 30px;
 	font-size: 40px;
-	margin-right: 200px;
-	margin-left: 200px;
+	margin-right: 20%;
+	margin-left: 20%;
 }
 .content-area p {
 	padding: 2% 0px;
 	font-family: poppins;
 	line-height: 30px;
 	font-size: 20px;
-	margin-right: 200px;
-	margin-left: 200px;
+	margin-right: 10%;
+	margin-left: 10%;
 	text-align: left;
 }
 .content-area strong {
