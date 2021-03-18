@@ -232,12 +232,19 @@ nav{
 	font-family: poppins;
 	line-height: 30px;
 	font-size: 20px;
+	margin-right: 200px;
+	margin-left: 200px;
+	text-align: left;
 }
 .content-area strong {
 		padding: 2% 0px;
 	font-family: poppins;
 	line-height: 30px;
 	font-size: 20px;
+}
+.gallery {
+	margin-right: 20px;
+	margin-left: 20px;
 }
 .gallery img {
     max-width:300px;
@@ -298,4 +305,8 @@ download a:hover:before {
 .end {
 	min-height: 3vh;
 	min-width: none;
+}
+.info {
+	text-align: left;
+	margin-left: 30%;
 }
