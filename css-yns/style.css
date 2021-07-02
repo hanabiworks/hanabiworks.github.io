@@ -2,7 +2,7 @@
 
 .apresentação{
   text-align: center;
-  background-image: url("C:/JV/programas/site%20novo/Loopers/banner1.jpg");
+  background-image: url("https://raw.githubusercontent.com/hanabiworks/hanabiworks.github.io/main/banner1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 0 0 8px 8px white inset;
@@ -33,7 +33,7 @@
 .história{
   text-align: center;
   background-color: aqua;
-  background-image: url("C:/Users/Pichau/Downloads/1920x1080-155856-yosuga-no-sora-4k-ultra-hd-wallpaper.jpg");
+  background-image: url("https://raw.githubusercontent.com/hanabiworks/hanabiworks.github.io/main/img/1920x1080-155856-yosuga-no-sora-4k-ultra-hd-wallpaper.jpg");
   height: auto;
   box-shadow: 0 0 8px 8px white inset;
   font-family: cursive;
