@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;700&display=swap');
+
+.apresentação{
+  text-align: center;
+  background-image: url("file:///C:/JV/programas/site%20novo/Loopers/img/cg_sr04_0102.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 8px 8px white inset;
+  background-position: center center;
+  height: 720px;
+}
+
+.header{
+  text-align: center;
+  word-spacing: 70px;
+  font-size: 30px;
+  height: 50px;
+  background-color: rgb(83, 83, 83);
+  width: 100%;
+  position: relative;
+  margin-top: 0px;
+  
+
+}
+.header a{
+  text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.história{
+  text-align: center;
+  background-color: aqua;
+  background-image: url("file:///C:/JV/programas/site%20novo/Loopers/img/wallpaperflare.com_wallpaper.jpg ");
+  height: auto;
+  box-shadow: 0 0 8px 8px white inset;
+  font-family: cursive;
+  font-size: 50px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 8px 8px white inset;
+  background-position: center center;
+  height: 720px;
+
+}
+.história .sinopse{
+  background-color: rgba(162, 210, 255, 0.9);
+  border-radius: 20px;
+  margin: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  line-height: 50px;
+  font-size: 21px;
+  text-align: left;
+
+}
+.história .sinopse .titulo{
+  text-align: center;
+  height: 95px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 45px;
+}
+
+.info{
+  text-align: center;
+  background-color: aqua;
+  background-image: url("file:///C:/JV/programas/site%20novo/Loopers/img/Summer_Pockets_Original_SoundTrack.jpg");
+  height: auto;
+  box-shadow: 0 0 8px 8px white inset;
+  font-family: cursive;
+  font-size: 50px;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 8px 8px white inset;
+  background-position: center center;
+  height: 720px;
+}
+
+.info .info2{
+  background-color: rgba(177, 219, 255, 0.9);
+  border-radius: 20px;
+  margin: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  line-height: 50px;
+  font-size: 28px;
+  text-align:  center ;
+  
+}
+
+.info .info2 .titulo{
+  text-align: center;
+  height: 70px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+}
+
+
+.final1{
+  text-align: center;
+  font-size: 40px;
+}
+.final2{
+  margin-left: 10%;
+  margin-right: 10%;
+  text-align: center;
+  font-size: 30px;
+}
+
+.discord{
+  text-align: center;
+}
+
+.aviso{
+  color: rgb(250, 0, 0);
+}
