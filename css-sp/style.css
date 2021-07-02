@@ -2,7 +2,7 @@
 
 .apresentação{
   text-align: center;
-  background-image: url("file:///C:/JV/programas/site%20novo/Loopers/img/cg_sr04_0102.jpg");
+  background-image: url("https://raw.githubusercontent.com/hanabiworks/hanabiworks.github.io/main/img/cg_sr04_0102.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 0 0 8px 8px white inset;
@@ -33,7 +33,7 @@
 .história{
   text-align: center;
   background-color: aqua;
-  background-image: url("file:///C:/JV/programas/site%20novo/Loopers/img/wallpaperflare.com_wallpaper.jpg ");
+  background-image: url("https://raw.githubusercontent.com/hanabiworks/hanabiworks.github.io/main/img/wallpaperflare.com_wallpaper.jpg");
   height: auto;
   box-shadow: 0 0 8px 8px white inset;
   font-family: cursive;
@@ -67,7 +67,7 @@
 .info{
   text-align: center;
   background-color: aqua;
-  background-image: url("file:///C:/JV/programas/site%20novo/Loopers/img/Summer_Pockets_Original_SoundTrack.jpg");
+  background-image: url("https://raw.githubusercontent.com/hanabiworks/hanabiworks.github.io/main/img/Summer_Pockets_Original_SoundTrack.jpg");
   height: auto;
   box-shadow: 0 0 8px 8px white inset;
   font-family: cursive;
