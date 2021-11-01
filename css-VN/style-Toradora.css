@@ -4,7 +4,7 @@
 
 .apresentação{
   text-align: center;
-  background-image: url("https://cdn.discordapp.com/attachments/842818373044928512/864308655044952064/Banner_estou_chapado.jpg");
+  background-image: url("https://cdn.discordapp.com/attachments/807614770164400139/904557907843100672/toradora-agosto-netflix.png");
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 0 0 8px 8px white inset;
@@ -33,7 +33,7 @@
 
 
 .história{
-  background-image: url("https://raw.githubusercontent.com/hanabiworks/hanabiworks.github.io/main/img/wallpaperflare.com_wallpaper.jpg");
+  background-image: url("https://cdn.discordapp.com/attachments/807614770164400139/904557819594960936/Toradora.png");
   box-shadow: 0 0 8px 8px white inset;
   font-family: cursive;
   background-attachment: fixed;
@@ -71,7 +71,7 @@ html, body {
   overflow-y: auto;
 }
 .gallery {
-  background-image: url("https://raw.githubusercontent.com/hanabiworks/hanabiworks.github.io/main/img/bg905a.png");
+  background-image: url("https://s2.vndb.org/sf/55/97455.jpg");
   text-align: center;
   font-size: 50px;
   color: white;
@@ -128,7 +128,7 @@ html, body {
 .info{
   text-align: center;
   background-color: aqua;
-  background-image: url("https://raw.githubusercontent.com/hanabiworks/hanabiworks.github.io/main/img/Summer_Pockets_Original_SoundTrack.jpg");
+  background-image: url("https://cdn.discordapp.com/attachments/807614770164400139/904557763231899668/1VLUKh4VvRpG-d7ajBwwtKg.png");
   height: auto;
   box-shadow: 0 0 8px 8px white inset;
   font-family: cursive;
@@ -176,17 +176,7 @@ html, body {
   margin: 2px;
   text-indent: 5%;
 }
-.steam{
-  max-width: 820px;
-  margin: 0 auto;
-  font-size: clamp(1.1rem, 2.5vw, 1.5rem);
 
-}
-iframe{
-  max-width: 100%;
-  max-height: 100%;
-  border-radius: 15px;
-}
 
 .final1{
   text-align: center;
