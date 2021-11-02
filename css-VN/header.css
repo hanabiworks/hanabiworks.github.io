@@ -6,8 +6,12 @@
   .tudo{
     overflow-x: hidden;
   }
+nav a{
+  color: white;
+}
+
   a {
-    color: #fff;
+
     text-decoration: none;
     transition: 0.3s;
   }

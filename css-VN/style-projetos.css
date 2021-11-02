@@ -21,7 +21,7 @@ div h1{
     opacity: 1;
 }
 .all .container{
-    background-color: rgb(92, 92, 92);
+    background-color: rgb(61, 61, 61);
     color: white;
     width: 270px;
     height: 390px;
@@ -32,7 +32,7 @@ div h1{
     margin-left: 30px;
     margin-right: 30px;
     margin-bottom: 30px;
-    border: 1px solid gray;
+    border: 1px solid black;
     opacity: 1;
 }
 .all .container h2{
