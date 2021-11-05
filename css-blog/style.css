@@ -31,7 +31,7 @@ body{
 .container a{
     font-size: 40px;
     font-family: sans-serif;
-    margin-left: 2%;
+
 }
     /* unvisited link */
 .container a:link {
@@ -96,4 +96,28 @@ body{
 
 #disqus_thread{
   margin: 5%;
+}
+
+
+
+.container{
+  overflow: hidden;
+}
+.container img{
+  max-width: 100%;
+  -webkit-transition: all .2s ease;
+  -moz-transition: all .2s ease;
+  -ms-transition: all .2s ease;
+  -o-transition: all .2s ease;
+  transition: all .2s ease;
+  
+  vertical-align: middle;
+}
+
+.container img:hover{
+  -webkit-transform:scale(1.5); /* Safari and Chrome */
+  -moz-transform:scale(1.5); /* Firefox */
+  -ms-transform:scale(1.5); /* IE 9 */
+  -o-transform:scale(1.5); /* Opera */
+  transform:scale(1.25);
 }
