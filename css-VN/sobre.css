@@ -34,6 +34,7 @@ h1{
     float: left;
     max-width: 158px;
     margin: 0 25px 0 5%;
+    border-radius: 50%;
 }
 
 .staff1 li{
@@ -54,6 +55,7 @@ h1{
     float: right;
     max-width: 158px;
     margin: 0 25px 0 5%;
+    border-radius: 50%;
 }
 
 .staff2 li{
