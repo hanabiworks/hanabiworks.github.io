@@ -64,12 +64,7 @@
 }
 
 /*--------------------------GALERIA-------------------------------*/
-html, body {
-  height: 100%;
-  width: 100%;
-  overflow-x: hidden;
-  overflow-y: auto;
-}
+
 .gallery {
   background-image: url("https://s2.vndb.org/sf/55/97455.jpg");
   text-align: center;
