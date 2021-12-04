@@ -1,0 +1,126 @@
+.header{
+  text-align: center;
+  word-spacing: 70px;
+  background-color: rgb(83, 83, 83);
+  width: 100%;
+  min-height: 50px;
+  position: relative;
+  margin-bottom: 30px;
+
+}
+.header a{
+  text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body{
+    background-image: url("https://images3.alphacoders.com/750/thumb-1920-750593.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: left;
+}
+.titulo{
+  padding: 40px;
+}
+.container{
+    background-color: rgba(255, 254, 254, 0.8);
+    max-width: 700px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+.container a{
+    font-size: 40px;
+    font-family: sans-serif;
+
+}
+    /* unvisited link */
+.container a:link {
+  color: black;
+  text-decoration: none;
+}
+
+/* visited link */
+.container a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+/* mouse over link */
+.container a:hover {
+  color: rgb(95, 94, 94);
+  text-decoration: none;
+}
+
+/* selected link */
+.container a:active {
+  color: rgb(0, 204, 255);
+  text-decoration: none;
+}
+.container img{
+    width: 100%;
+    height: auto;
+}
+.container p{
+  margin-left: 2%;
+  font-size: 20px;
+}
+
+
+.container2{
+    background-color: rgba(255, 255, 255, 0.95);
+    max-width: 1200px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+.container2 .titulo{
+    font-size: 40px;
+    margin-left: 2%;
+}
+.container2 img{
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.container2 p{
+    font-size: clamp(1rem, 2.5vw, 1.5rem);  
+  padding: 5px;
+   margin-right: 10%;
+   margin-left: 10%;
+   text-indent: 50px;
+}
+
+#disqus_thread{
+  margin: 5%;
+}
+
+
+
+.container{
+  overflow: hidden;
+}
+.container img{
+  max-width: 100%;
+  -webkit-transition: all .2s ease;
+  -moz-transition: all .2s ease;
+  -ms-transition: all .2s ease;
+  -o-transition: all .2s ease;
+  transition: all .2s ease;
+  
+  vertical-align: middle;
+}
+
+.container img:hover{
+  -webkit-transform:scale(1.5); /* Safari and Chrome */
+  -moz-transform:scale(1.5); /* Firefox */
+  -ms-transform:scale(1.5); /* IE 9 */
+  -o-transform:scale(1.5); /* Opera */
+  transform:scale(1.25);
+}

@@ -65,10 +65,7 @@
 
 /*--------------------------GALERIA-------------------------------*/
 html, body {
-  height: 100%;
-  width: 100%;
   overflow-x: hidden;
-  overflow-y: auto;
 }
 .gallery {
   background-image: url("https://raw.githubusercontent.com/hanabiworks/hanabiworks.github.io/main/img/bg905a.png");
