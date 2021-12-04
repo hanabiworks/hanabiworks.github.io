@@ -64,7 +64,9 @@
 }
 
 /*--------------------------GALERIA-------------------------------*/
-
+html, body {
+  overflow-x: hidden;
+}
 .gallery {
   background-image: url("https://s2.vndb.org/sf/55/97455.jpg");
   text-align: center;
