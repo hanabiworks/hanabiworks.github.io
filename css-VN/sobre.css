@@ -32,7 +32,7 @@ h1{
 .staff1 img{
     display: table-cell;
     float: left;
-    max-width: 158px;
+    width: 158px;
     margin: 0 25px 0 5%;
     border-radius: 50%;
 }
