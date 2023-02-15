@@ -1,0 +1,61 @@
+site_name: HanabiWorks
+site_author: Rin chan
+site_description: Somos uma fansub focada em traduzir Visuais Novels devido nossa paixão por esse gênero. Nosso objetivo é deixar esse tipo de jogo acessível atravéz de nossas traduções.
+
+theme:
+  name: material
+  language: pt-BR
+  palette:
+    scheme: slate
+    primary: light blue
+
+  features:
+    - navigation.sections
+    - content.tooltips
+    - content.tabs.link
+
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+extra:
+  generator: false
+  analytics:
+    provider: google
+    property: G-9ZRXQ4F0HW
+
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Sobre: "index.md"
+
+  - Projetos:
+    - Yosuga no Sora: 'yosuganosora.md'
+    - Toradora: 'toradora.md'
+    - Summer Pockets: 'summerpockets.md'
+    - Gin Iru Haruka: 'giniruharuka.md'
+    - Tsukihime Remake: 'tsukihime.md'
+
