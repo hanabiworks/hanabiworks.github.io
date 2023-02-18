@@ -42,20 +42,33 @@ Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua funçã
 
 [donwload](https://www.mediafire.com/file/onu4mxogaeiafv2/Patch_toradora_parcial.rar/file)
 
+**2-** Baixe a rom com o patch já em inglês
 
-Sendo escrito...
+**3-** Baixe o xdelta patcher e por meio dele aplique o patch 
+
+**4-** Execute o emulador e coloque a iso com o patch aplicado
+
+**5-** Divirta-se
+
+
+
+
+
 
 
 ## Perguntas frequentes
 
 **O patch é compatível com qual versão?**
-- Apenas com a versão emulada de PSP 
+
+	- Apenas com a versão emulada de PSP 
 
 **Tem para Android?**
-- No momento não.
+
+	- Apenas se emular pelo PPSSPP.
 
 **Minha pergunta não está aqui**
-- Entre no Discord
+
+	- Entre no Discord
 
 
 
