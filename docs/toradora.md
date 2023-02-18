@@ -58,17 +58,17 @@ Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua funçã
 
 ## Perguntas frequentes
 
-**O patch é compatível com qual versão?**
+**-O patch é compatível com qual versão?**
 
-	- Apenas com a versão emulada de PSP 
+Apenas com a versão emulada de PSP 
 
-**Tem para Android?**
+**-Tem para Android?**
 
-	- Apenas se emular pelo PPSSPP.
+Apenas se emular pelo PPSSPP.
 
-**Minha pergunta não está aqui**
+**-Minha pergunta não está aqui**
 
-	- Entre no Discord
+Entre no Discord
 
 
 
