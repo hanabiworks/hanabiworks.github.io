@@ -1,9 +1,8 @@
 *Tradução de Oreimo PSP Disco 1 para o PT-BR(Português Brasil)*
 
-!!! warning "Leia com atenção"
+!!! danger "Patch beta"
 
-    Isso é um patch feito de fãs para fãs sem nenhum fim lucrativo. Também não disponibilizamos o jogo aqui, só o patch.
-
+	Isso é um patch completamente beta, sem revisão e edição de imagem. Ou seja, terá erros de tradução e talvez alguns bugs.
 
 
 # Oreimo
@@ -12,12 +11,11 @@
 
 A primeira série de TV pode ter acabado, mas a história de Oreimo está apenas começando! Agora você pode controlar o destino de Kyousuke enquanto interage com as garotas bonitas de sua vida e lida com o capricho otaku de sua irmãzinha Kirino. Embalado com mais de 20 finais possíveis e dezenas de ótimos CG no jogo, o diálogo regular é cativante, além de ser alimentado pelo sistema gráfico "OIU" ou sistema "Ore no Imouto ga konnani Ugoku wake ga nai" ("Não há maneira que minha irmãzinha poderia se mover assim!). É um sistema de animação 2D em tempo real que faz com que os personagens reajam emocionalmente e com gestos às escolhas de diálogo que você faz. Viva seus cenários de sonho com seus personagens Oreimo favoritos neste grande jogo!
 
-
 ## Progresso
 
 | Rota         | Tradução | Revisão | Edição |
 |--------------|----------|---------|------------|
-| Total      | **100%**  | **100%** | **20%**  |
+| Total      | **100%**  | **0%** | **20%**  |
 
 
 ## Créditos
@@ -42,19 +40,19 @@ A primeira série de TV pode ter acabado, mas a história de Oreimo está apenas
 
 ## Instalação
 
-!!!warning "O patch está na etapa de revisão, será disponibizado assim que for finalizada."  
+<!-- !!!warning "O patch está na etapa de revisão, será disponibizado assim que for finalizada." -->  
 
-<!-- **1-** Baixe o Patch abaixo: -->
+**1-** Baixe o Patch abaixo:
 
-<!-- [download](https://www.mediafire.com/file/8via1txiiu1f0jf/Oreimo_Disco1_Pt-br_1.0.xdelta/file) -->
+[download](https://www.mediafire.com/file/8via1txiiu1f0jf/Oreimo_Disco1_Pt-br_1.0.xdelta/file)
 
-<!-- **2-** Baixe a rom com o patch já em inglês -->
+**2-** Baixe a rom com o patch já em inglês
 
-<!-- **3-** Baixe o xdelta patcher e por meio dele aplique o patch --> 
+**3-** Baixe o xdelta patcher e por meio dele aplique o patch 
 
-<!-- **4-** Execute o emulador e coloque a iso com o patch aplicado -->
+**4-** Execute o emulador e coloque a iso com o patch aplicado
 
-<!-- **5-** Divirta-se -->
+**5-** Divirta-se
 
 
 
