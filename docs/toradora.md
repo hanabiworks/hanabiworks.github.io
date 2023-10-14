@@ -27,7 +27,7 @@ Toradora é um anime de comédia romântica em que acompanhamos Taiga e Ryuji em
 - **Gopicolo** - Tradução
 
 **Contribuidores**
-- **Fujeneko** - Edição de imagem
+- **Fujoneko** - Edição de imagem
 
 
 
