@@ -1,4 +1,4 @@
-**Gin iru Haruka**
+# **Gin iru Haruka**
 *Você sabia? Pessoas com mãos frias tem um coração quente.*
 
 Tradução de Gin iru Haruka para o PT-BR(Português Brasil)
