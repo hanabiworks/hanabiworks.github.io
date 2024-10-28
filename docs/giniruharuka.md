@@ -23,6 +23,7 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 |--------------|-----------|------------|
 | Comum        | **100%**  | **100%**      |
 | Momiji       | **100%**  | **100%**      |
+| Yuzuki       | **100%**  | **100%**      |
 | Hinata       | **100%**  | **0%**      |
 | Bethly       | 40%  | 0%     |
 | Outras        | 0%  | 0%    |
