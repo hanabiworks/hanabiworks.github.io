@@ -43,11 +43,10 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 - **Rin chan** - Feedback
 
 
-
 **Outros**
 
 - **Marcus Andre** - Ferramentas
-- **Fansub gringa e espanhola** - Pelas tadução
+- **Fansub gringa e espanhola** - *Tsurezure Scans* & *Daybreak* pelas traduções
 - **Toneworks** - Pelo lançamento do jogo
 
 Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua função em pelo menos 15% do projeto*
