@@ -1,10 +1,9 @@
 # **Tsukihime Remake**
 *Tradução de Tsukihime Remake para o PT-BR(Português Brasil)*
 
-!!! danger "Leia antes"
+!!! warning "Leia com atenção"
 
-	Isso é um patch feito de fãs para fãs sem nenhum fim lucrativo. Também não disponibilizamos o jogo aqui, só o patch.
-
+    Esse é um patch feito de fãs para fãs sem nenhum fim lucrativo. Também não disponibilizamos o jogo aqui, só o patch.
 ## Sinopse
 
 ![banner](https://s2.vndb.org/cv/41/48041.jpg){align=left}

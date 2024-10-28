@@ -1,8 +1,8 @@
 *Tradução de Oreimo PSP Disco 1 para o PT-BR(Português Brasil)*
 
-!!! danger "Patch beta"
+!!! warning "Leia com atenção"
 
-	Isso é um patch completamente beta, sem revisão e edição de imagem. Ou seja, terá erros de tradução e talvez alguns bugs.
+    Esse é um patch feito de fãs para fãs sem nenhum fim lucrativo. Também não disponibilizamos o jogo aqui, só o patch.
 
 
 # Oreimo

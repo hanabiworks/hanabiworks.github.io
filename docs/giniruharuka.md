@@ -3,9 +3,9 @@
 
 Tradução de Gin iru Haruka para o PT-BR(Português Brasil)
 
-!!! danger "Leia antes"
+!!! warning "Leia com atenção"
 
-	Isso é um patch feito de fãs para fãs sem nenhum fim lucrativo. Também não disponibilizamos o jogo aqui, só o patch.
+    Esse é um patch feito de fãs para fãs sem nenhum fim lucrativo. Também não disponibilizamos o jogo aqui, só o patch.
 
 # Gin'iru Haruka
 
@@ -46,7 +46,7 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 **Outros**
 
 - **Marcus Andre** - Ferramentas
-- **Fansub gringa e espanhola** - *Tsurezure Scans* & *Daybreak* pelas traduções
+- **Fansub gringa** - *Tsurezure Scans* & *Daybreak* pelas traduções
 - **Toneworks** - Pelo lançamento do jogo
 
 Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua função em pelo menos 15% do projeto*

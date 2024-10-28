@@ -3,7 +3,7 @@
 
 !!! warning "Leia com atenção"
 
-    Isso é um patch feito de fãs para fãs sem nenhum fim lucrativo. Também não disponibilizamos o jogo aqui, só o patch.
+    Esse é um patch feito de fãs para fãs sem nenhum fim lucrativo. Também não disponibilizamos o jogo aqui, só o patch.
 
 ## Sinopse
 
