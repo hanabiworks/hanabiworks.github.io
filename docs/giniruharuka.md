@@ -23,6 +23,7 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 |--------------|-----------|------------|
 | Comum        | **100%**  | **100%**      |
 | Momiji       | **100%**  | **100%**      |
+| Hinata       | **100%**  | **0%**      |
 | Bethly       | 40%  | 0%     |
 | Outras        | 0%  | 0%    |
 
@@ -33,6 +34,7 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 **HanabiWorks**
 
 - **Gopicolo** - Tradução
+- **Leo** - Tradução
 - **Han** - Tradução / Revisão
 
 **Contribuidores**
@@ -54,7 +56,7 @@ Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua funçã
 **1-** Baixe o Patch abaixo
 
 
-**Gin'iru Haruka** - `16/05/2021`: [Download](https://www.mediafire.com/file/lwbnfn21mygxi7g/Gin%E2%80%99Iro+Haruka+patch+rota+momiji.rar/file)
+**Gin'iru Haruka** - `27/10/2024`: [Download](https://www.mediafire.com/file/rk5q78fedj8bmee/Gin'Haru+patch+rota+Yuzuki,+Momiji+&+Hina.rar/file)
 
 *Patch parcial contendo a rota comum e a rota da Momiji*
 
