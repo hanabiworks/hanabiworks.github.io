@@ -92,5 +92,4 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 
 Nota: Só foram mencionadas em **HanabiWorks** as pessoas que exerceram sua função em pelo menos 15% do projeto.
 
-
 [Entre no Discord](https://discord.com/invite/ATTxJYuTvm)
