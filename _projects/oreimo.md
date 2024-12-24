@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /oreimo/
-title: Oraimo
+title: Oreimo
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_oreimo.jpg
 importance: 6

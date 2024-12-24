@@ -48,9 +48,7 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 - **Gopicolo** - Tradução
 - **Leo** - Tradução
 - **Han** - Tradução / Revisão
-
-**Contribuidores**
-
+- **Bern(Estuprilson)** - Revisão
 - **Rin chan** - Feedback
 
 

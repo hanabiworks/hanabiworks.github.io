@@ -4,7 +4,7 @@ permalink: /tsukihime/
 title: Tsukihime Remake
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_tsukihime.jpg
-importance: 4
+importance: 3
 category: visual novel
 # related_publications: true
 images:
@@ -49,7 +49,10 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 
 **HanabiWorks**
 
-- **Rin chan** - Tradução
+- **Líder:** Rin chan
+- **Tradução:** Hakata (introdução e prólogo), mj-r2 e Unoxya (Arcueid), Thiago Tesouras e est (Ciel)
+- **Revisão:** Iskandar, Bruno Valentim
+- **Programação:** Rin chan
 
 **Outros**
 
