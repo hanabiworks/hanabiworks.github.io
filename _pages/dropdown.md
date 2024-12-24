@@ -9,4 +9,6 @@ children:
     permalink: https://discord.com/invite/ATTxJYuTvm
   - title: youtube
     permalink: https://www.youtube.com/@HanabiWorksFansub/featured
+  - title: twitter
+    permalink: https://x.com/HanabiWork
 ---
