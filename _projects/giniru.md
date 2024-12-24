@@ -45,8 +45,8 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 
 **HanabiWorks**
 
+- **Leo** - Líder e Tradução
 - **Gopicolo** - Tradução
-- **Leo** - Tradução
 - **Han** - Tradução / Revisão
 - **Bern(Estuprilson)** - Revisão
 - **Rin chan** - Feedback
@@ -70,7 +70,7 @@ Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua funçã
 
 **Gin'iru Haruka** - `27/10/2024`: [Download](https://www.mediafire.com/file/rk5q78fedj8bmee/Gin'Haru+patch+rota+Yuzuki,+Momiji+&+Hina.rar/file)
 
-*Patch parcial contendo a rota comum e a rota da Momiji*
+*Patch parcial contendo a rota comum, Momiji, Hinata, Yuzuki*
 
 **2-** Instale na pasta do jogo
 
