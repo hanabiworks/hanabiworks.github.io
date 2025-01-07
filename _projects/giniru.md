@@ -35,7 +35,7 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 | Yuzuki       | **100%**  | **40%**    |
 | Hinata       | **100%**  | **0%**     |
 | Bethly       | **100%**  | **0%**     |
-| Outras       | 0%        | 0%         |
+| Mizuha       | 0%        | 0%         |
 
 ---
 
@@ -45,8 +45,8 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 
 **HanabiWorks**
 
+- **Leo** - Líder do Projeto
 - **Gopicolo** - Tradução
-- **Leo** - Tradução
 - **Han** - Tradução / Revisão
 - **Bern(Estuprilson)** - Revisão
 - **Rin chan** - Feedback
