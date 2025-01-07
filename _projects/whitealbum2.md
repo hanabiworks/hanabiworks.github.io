@@ -54,7 +54,7 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 
 ##### **HanabiWorks**
 
--  **Líderes:** Gopicolo e Rin chan
+-  **Líderes:** Hakata, Gopicolo e Rin chan
 -  **Tradutores:**  Hakata, Pingolas, Iskandar, Gopicolo
 -  **programador:** Digimaloko
 
