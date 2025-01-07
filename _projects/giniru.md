@@ -30,12 +30,12 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 
 | Rota         | Traduzida | Revisão |
 |--------------|-----------|------------|
-| Comum        | **100%**  | **100%**      |
-| Momiji       | **100%**  | **100%**      |
-| Yuzuki       | **100%**  | **100%**      |
-| Hinata       | **100%**  | **0%**      |
-| Bethly       | 40%  | 0%     |
-| Outras        | 0%  | 0%    |
+| Comum        | **100%**  | **100%**   |
+| Momiji       | **100%**  | **0%**     |
+| Yuzuki       | **100%**  | **40%**    |
+| Hinata       | **100%**  | **0%**     |
+| Bethly       | **100%**  | **0%**     |
+| Outras       | 0%        | 0%         |
 
 ---
 
@@ -45,8 +45,8 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 
 **HanabiWorks**
 
-- **Leo** - Líder e Tradução
 - **Gopicolo** - Tradução
+- **Leo** - Tradução
 - **Han** - Tradução / Revisão
 - **Bern(Estuprilson)** - Revisão
 - **Rin chan** - Feedback
@@ -67,14 +67,13 @@ Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua funçã
 
 **1-** Baixe o Patch abaixo
 
+**Gin'iru Haruka** - `06/01/2024`: [Download](https://www.mediafire.com/file/e8rfrxkanmdsfgq/Gin%2527Iro_patch_4.00.rar/file)
 
-**Gin'iru Haruka** - `27/10/2024`: [Download](https://www.mediafire.com/file/rk5q78fedj8bmee/Gin'Haru+patch+rota+Yuzuki,+Momiji+&+Hina.rar/file)
-
-*Patch parcial contendo a rota comum, Momiji, Hinata, Yuzuki*
+<!-- *Patch parcial contendo as rotas: Comum, Momiji, Yuzuki, Hi* -->
 
 **2-** Instale na pasta do jogo
 
-Coloque todos os arquivos no diretório que você instalou o jogo.
+Coloque todos os arquivos no diretório que você instalou o jogo. Provavelmente em: ```C:/Program Files (x86)/toneworks/銀色、遥か```
 
 ---
 
@@ -93,6 +92,17 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 
 ---
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CG_gin-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CG_gin-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CG_gin-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 
 
