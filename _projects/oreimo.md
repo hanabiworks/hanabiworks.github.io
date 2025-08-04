@@ -25,7 +25,7 @@ A primeira série de TV pode ter acabado, mas a história de Oreimo está apenas
 
 | Rota         | Tradução | Revisão | Edição |
 |--------------|----------|---------|------------|
-| Total      | **100%**  | **0%** | **20%**  |
+| Total      | **100%**  | **100%** | **100%**  |
 
 
 ## Créditos
