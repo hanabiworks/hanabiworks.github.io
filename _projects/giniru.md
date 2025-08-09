@@ -25,17 +25,18 @@ Nesse jogo existem cinco heroínas, primeiro a estudante transferida do Canadá,
 
 ---
 
+> **Atenção**: Por causa de certos membros, a revisão não pode ser completada. Então se você se sentir irritado por achar esses erros, desconte no usuário B3RN (Vulgo estrupilson), ID de usuário: b3rn1303
 
 ## Progresso
 
-| Rota         | Traduzida | Revisão |
+| Rota         | Traduzida | Revisão    |
 |--------------|-----------|------------|
 | Comum        | **100%**  | **100%**   |
 | Momiji       | **100%**  | **0%**     |
 | Yuzuki       | **100%**  | **40%**    |
 | Hinata       | **100%**  | **0%**     |
 | Bethly       | **100%**  | **0%**     |
-| Mizuha       | 0%        | 0%         |
+| Mizuha       | **100%**  | **0%**     |
 
 ---
 
@@ -67,7 +68,7 @@ Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua funçã
 
 **1-** Baixe o Patch abaixo
 
-**Gin'iru Haruka** - `06/01/2024`: [Download](https://www.mediafire.com/file/e8rfrxkanmdsfgq/Gin%2527Iro_patch_4.00.rar/file)
+**Gin'iru Haruka** - `09/09/2025`: [Download](https://www.mediafire.com/file/ca8ad2qb49ygqf5/Gin'Iro+Patch+5.0.rar/file)
 
 <!-- *Patch parcial contendo as rotas: Comum, Momiji, Yuzuki, Hi* -->
 

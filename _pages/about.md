@@ -30,4 +30,4 @@ Como somos uma fansub sem nenhum interesse monetário, nossos patches são compl
 
 Caso queira ajudar diretamente em algum projeto como tradução, revisão, ediçao de imagem, etc... Sinta-se à vontade nos mandar uma mensagem no nosso grupo do [Discord](https://discord.com/invite/ATTxJYuTvm).
 
-Lembrando, não disponibilizamos nenhum jogo aqui ou conteúdo pirata. Somos apenas um grupo de traduções amador :scream:.
+Lembrando, não disponibilizamos nenhum jogo aqui ou conteúdo pirata. Somos apenas um grupo de traduções amador.
