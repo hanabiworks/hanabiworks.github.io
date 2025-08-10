@@ -4,7 +4,7 @@ permalink: /giniruharuka/
 title: Gin'iro, Haruka
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_giniru.jpg
-importance: 5
+importance: 1
 category: visual novel
 # related_publications: true
 images:
