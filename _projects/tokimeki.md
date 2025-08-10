@@ -32,7 +32,7 @@ Dizem que se uma garota declarar seu amor à você embaixo daquela árvore, voc�
 
 ## Progresso
 
-| Traduzida | Revisão    |
+| Traduzido | Revisão    |
 |-----------|------------|
 | **0%**  | **0%**   |
 
