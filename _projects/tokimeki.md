@@ -65,7 +65,7 @@ Dizem que se uma garota declarar seu amor a você debaixo daquela árvore, você
 ## Perguntas frequentes
 
 #### O patch é compatível com qual versão e console?
-O patch é compatível com a versão de Sega Saturn (não pergunte novamente SamuelJinx).
+O patch é compatível apenas com a versão de Sega Saturn (não pergunte novamente SamuelJinx).
 
 #### Tem para Android?
 Plmds Samuel.
