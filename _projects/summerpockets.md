@@ -30,9 +30,11 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 
 | Rota         | Traduzida | Revisão |
 |--------------|-----------|------------|
-| Prologo        | **87%**  | *???*      |
-| Ao         | **100%**  | **100%**      |
-| Shiroha       | Sendo traduzida  | 0%     |
+| Prologo        | **100%**  | *???*      |
+| Ao         | **100%**  | **0%**      |
+| Shiroha       |  **100%  | 100%     |
+| Umi       |  **100%  | 0%     |
+| Shiki       |  **100%  | 0%     |
 | Tsumugi        | 0%  | 0%    |
 | Kamone      | 0% | 0%    |
 | Minigames         | 0% | 0%    |
@@ -48,13 +50,13 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 
 **Baixe o patch mais recente:**
 
-  Summer Pockets - `17/10/2021`: [Download](https://www.mediafire.com/file/3m3l9cldljj4jn4/_patch_SummerPockets_PTBR.rar/file)
+  Summer Pockets - `19/10/2025`: [Download](https://www.mediafire.com/file/0sbb7yxdqr1mhla/Summer_Pockets_RB%2528Steam%2529_1.0.zip/file)
 
   *Patch parcial contendo o prólogo e a rota da Ao*
 
    ---
 
-**Instale na pasta do jogo** 
+**Instale na pasta do jogo**
 
 - Coloque todos os arquivos no diretório que você instalou o jogo.
 
@@ -63,7 +65,7 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 ## Perguntas frequentes
 
 #### O patch é compatível com qual versão?
-Apenas com a versão da [Steam](https://store.steampowered.com/app/897220/Summer_Pockets/)
+Apenas com a versão da [Steam](https://store.steampowered.com/app/3418570/Summer_Pockets_REFLECTION_BLUE/)
 
 #### Tem para Android?
 No momento não.
@@ -76,13 +78,11 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 
 ## Créditos
 
-- **HanabiWorks**
-- **Rin chan** - Tradução
-- **Alexandre Doppel** - Revisão
-- **Gopicolo** - Feedback
-- **DanyOzzy** - Feedback
-- **Key** - Pelo lançamento do jogo
+##### **HanabiWorks**
 
-Nota: Só foram mencionadas em **HanabiWorks** as pessoas que exerceram sua função em pelo menos 15% do projeto.
+-  **Líderes:** Léo
+-  **Tradutores:** Léo
+-  **Revisores:** Kazuki Minoru
+
 
 [Entre no Discord](https://discord.com/invite/ATTxJYuTvm)
