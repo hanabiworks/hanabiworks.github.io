@@ -21,7 +21,7 @@ images:
 
 ![banner](https://s2.vndb.org/cv/90/42590.jpg)
 
-Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem uma população de cerca de 2.000 pessoas. O protagonista é Hairi Takahara, um jovem que não é da ilha. Hairi cresceu em na cidade, mas após um incidente desagradável, ele usa a recente morte de sua avó como uma desculpa para vir à ilha afim de cuidar da casa de sua avó. Lá, ele conhece quatro meninas que são o foco da história. Elas incluem Shiroha Naruse, que esqueceu como curtir suas férias de verão; Ao Sorakado, que persegue as lendas da ilha; Kamome Kushima, uma garota de alta classe procurando um navio pirata; e Tsumugi Wenders, uma garota mais jovem tentando encontrar si própria..
+Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem uma população de cerca de 2.000 pessoas. O protagonista é Hairi Takahara, um jovem que não é da ilha. Hairi cresceu na cidade, mas após um incidente desagradável, ele usa a recente morte de sua avó como uma desculpa para vir à ilha a fim de cuidar da casa de sua avó. Lá, ele conhece quatro meninas que são o foco da história. Elas incluem Shiroha Naruse, que esqueceu como curtir suas férias de verão; Ao Sorakado, que persegue as lendas da ilha; Kamome Kushima, uma garota de alta classe procurando um navio pirata; e Tsumugi Wenders, uma garota mais jovem tentando encontrar a si própria.
 
 
 ---
@@ -50,9 +50,9 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 
 **Baixe o patch mais recente:**
 
-  Summer Pockets - `19/10/2025`: [Download](https://www.mediafire.com/file/0sbb7yxdqr1mhla/Summer_Pockets_RB%2528Steam%2529_1.0.zip/file)
+  Summer Pockets - `19/10/2025`: [Download](https://store.steampowered.com/app/3418570/Summer_Pockets_REFLECTION_BLUE/)
 
-  *Patch parcial contendo o prólogo e a rota da Ao*
+  *Patch parcial contendo o prólogo e as rotas da Ao, Shiroha, Umi e Shiki*
 
    ---
 
@@ -68,7 +68,7 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 Apenas com a versão da [Steam](https://store.steampowered.com/app/3418570/Summer_Pockets_REFLECTION_BLUE/)
 
 #### Tem para Android?
-No momento não.
+Em teste...
 
 #### Minha pergunta não está aqui
 Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.com/invite/ATTxJYuTvm) para obter mais ajuda.
