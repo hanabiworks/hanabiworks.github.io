@@ -4,7 +4,7 @@ permalink: /yosuganosora/
 title: Yosuga No Sora
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_yosuganosora.jpg
-importance: 1
+importance: 7
 category: visual novel
 # related_publications: true
 images:

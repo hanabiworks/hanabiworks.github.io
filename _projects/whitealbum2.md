@@ -4,7 +4,7 @@ permalink: /whitealbum2/
 title: White Album 2
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_whitealbum22.jpg
-importance: 1
+importance: 4
 category: visual novel
 # related_publications: true
 images:
@@ -59,7 +59,7 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 -  **programador:** Digimaloko
 
 ##### **Agradecimentos**
-- Todokanai Translations, pela fonte de texto e a tradução em inglês. 
+- Todokanai Translations, pela fonte de texto e a tradução em inglês.
 - E para o AbdAlgani, pela ajuda com as [ferramentas](https://github.com/abdalgani1/)
 
 Nota: Só foram mencionadas em **HanabiWorks** as pessoas que exerceram sua função em pelo menos 15% do projeto.

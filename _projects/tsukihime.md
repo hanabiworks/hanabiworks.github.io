@@ -4,7 +4,7 @@ permalink: /tsukihime/
 title: Tsukihime Remake
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_tsukihime.jpg
-importance: 3
+importance: 5
 category: visual novel
 # related_publications: true
 images:
@@ -23,10 +23,10 @@ A história acompanha Shiki, um garoto aparentemente comum, mas que adquiriu “
 
 Certo dia, enquanto caminhava, ele vê uma bela garota, por quem acaba sentindo fortes impulsos de matar. Tomando por esses desejos, Shiki acaba a matando inconscientemente, acreditando ser tudo um sonho.
 
-Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apresentando para ele como uma de suas vítimas, e dizendo que não está morta pelo fato de ser uma vampira. A partir de então, Shiki é levado a ajudar a garota, se envolvendo em segredos e um mundo sobrenatural que vai muito além de sua imaginação. 
+Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apresentando para ele como uma de suas vítimas, e dizendo que não está morta pelo fato de ser uma vampira. A partir de então, Shiki é levado a ajudar a garota, se envolvendo em segredos e um mundo sobrenatural que vai muito além de sua imaginação.
 
 
---- 
+---
 
 
 ## Progresso
@@ -43,7 +43,7 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 | Arcueid      | 0%  | 0%    |
 | Total        | 16% | 6%    |
 
---- 
+---
 
 ## Créditos
 
@@ -61,7 +61,7 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 
 Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua função em pelo menos 15% do projeto*
 
---- 
+---
 
 ## Instalação
 
@@ -72,7 +72,7 @@ Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua funçã
 
 O restante das instruções se encontra dentro do arquivo acima
 
---- 
+---
 
 ## Perguntas frequentes
 

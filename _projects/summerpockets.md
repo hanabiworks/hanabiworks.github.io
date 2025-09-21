@@ -4,7 +4,7 @@ permalink: /summerpockets/
 title: Summer Pockets
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_summerpockets2.jpg
-importance: 4
+importance: 1
 category: visual novel
 # related_publications: true
 images:
@@ -50,7 +50,7 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 
 **Baixe o patch mais recente:**
 
-  Summer Pockets - `19/10/2025`: [Download](https://www.mediafire.com/file/w68f5yhtnyfwuiv/Summer_Pockets_RB%2528Steam%2529_1.1.zip/file)
+  Summer Pockets - `20/09/2025`: [Download](https://www.mediafire.com/file/w68f5yhtnyfwuiv/Summer_Pockets_RB%2528Steam%2529_1.1.zip/file)
 
   *Patch parcial contendo o prólogo e as rotas da Ao, Shiroha, Umi e Shiki*
 
