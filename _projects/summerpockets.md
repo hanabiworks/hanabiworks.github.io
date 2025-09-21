@@ -46,11 +46,11 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 
 ### Passos de Instalação:
 
-> **Lembrete**: O patch só é compatível com a versão da [Steam](https://store.steampowered.com/app/897220/Summer_Pockets/)
+> **Lembrete**: O patch só é compatível com a versão da [Steam](https://store.steampowered.com/app/3418570/Summer_Pockets_REFLECTION_BLUE/)
 
 **Baixe o patch mais recente:**
 
-  Summer Pockets - `19/10/2025`: [Download](https://store.steampowered.com/app/3418570/Summer_Pockets_REFLECTION_BLUE/)
+  Summer Pockets - `19/10/2025`: [Download](https://www.mediafire.com/file/w68f5yhtnyfwuiv/Summer_Pockets_RB%2528Steam%2529_1.1.zip/file)
 
   *Patch parcial contendo o prólogo e as rotas da Ao, Shiroha, Umi e Shiki*
 
