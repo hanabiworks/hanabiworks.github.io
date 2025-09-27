@@ -68,7 +68,7 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 Apenas com a versão da [Steam](https://store.steampowered.com/app/3418570/Summer_Pockets_REFLECTION_BLUE/)
 
 #### Vocês vão traduzir apenas a versão da Steam?
-Sim. Porém, caso algumas mudanças dessa versão não o agradam (mudanças de CGs, por exemplo), você pode baixar o patch de [restauração](https://va-trialdist.azureedge.net/key/summer_rb/index.html) e aplicar no jogo.
+Sim. Porém, caso algumas mudanças dessa versão não lhe agradem (como alterações de CGs, por exemplo), você pode baixar o patch de [restauração](https://va-trialdist.azureedge.net/key/summer_rb/index.html) e aplicá-lo no jogo.
 
 #### Tem para Android?
 Em teste...
