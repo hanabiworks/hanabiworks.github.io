@@ -24,14 +24,10 @@ White Album 2 é um romance dramático que acompanha a história destes três pe
 
 ## Progresso
 
-| Rota   | Tradução | Revisão rápida | TL-Check | Revisão Completa |
-|--------|----------|----------------|----------|------------------|
-| Introdutory Chapter |  ❌ 0%   |  ❌ 0%         | ❌ 0%     | ❌ 0% |
-| Closing Chapter |  ❌ 0%  | ❌ 0%       | ❌ 0%     | ❌ 0% |
-| CODA |  ❌ 0%  | ❌ 0%       | ❌ 0%     | ❌ 0% |
+| Tradução IC | Tradução CC | Tradução Coda| Revisão Completa |
+|-------------|-------------|--------------|------------------|
+|  ❌ 0%      | ❌ 0%       | ❌ 0%        | ❌ 0%            |
 
-
-_TL-Check é a checagem da tradução através do japonês._
 
 ---
 
@@ -54,15 +50,16 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 
 ##### **HanabiWorks**
 
--  **Líderes:** Hakata, Gopicolo e Rin chan
--  **Tradutores:**  Hakata, Pingolas, Iskandar, Gopicolo
+-  **Líderes:** Hakata, Gopicolo
+-  **Tradutores:**  Hakata, Pingolas, Gopicolo, Mozer
+-  **Revisores:** Hakata, Pingolas, Iskandar 
+-  **Edição de imagem:** Fujoneko, Nathan
+-  **Edição de vídeo:** Ceuipsolon
 -  **programador:** Digimaloko
 
 ##### **Agradecimentos**
 - Todokanai Translations, pela fonte de texto e a tradução em inglês.
 - E para o AbdAlgani, pela ajuda com as [ferramentas](https://github.com/abdalgani1/)
-
-Nota: Só foram mencionadas em **HanabiWorks** as pessoas que exerceram sua função em pelo menos 15% do projeto.
 
 ---
 
