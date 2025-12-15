@@ -24,9 +24,9 @@ White Album 2 é um romance dramático que acompanha a história destes três pe
 
 ## Progresso
 
-| Tradução IC | Tradução CC | Tradução Coda| Revisão Completa |
-|-------------|-------------|--------------|------------------|
-|  ❌ 0%      | ❌ 0%       | ❌ 0%        | ❌ 0%            |
+| Tradução IC | Tradução CC | Tradução Coda | Revisão IC  |
+|-------------|-------------|---------------|-------------|
+| ❌ 0%       | ❌ 0%       | ❌ 0%         | ❌ 0%       |
 
 
 ---
@@ -52,7 +52,7 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 
 -  **Líderes:** Hakata, Gopicolo
 -  **Tradutores:**  Hakata, Pingolas, Gopicolo, Mozer
--  **Revisores:** Hakata, Pingolas, Iskandar 
+-  **Revisores:** Hakata, Pingolas, Iskandar, Darksoner
 -  **Edição de imagem:** Fujoneko, Nathan
 -  **Edição de vídeo:** Ceuipsolon
 -  **programador:** Digimaloko
