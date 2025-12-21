@@ -31,17 +31,19 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 
 ## Progresso
 
-| Rota         | Traduzida | Revisão |
-|--------------|-----------|------------|
-| Prologo      | **100%%**  | **100%**      |
-| Dia 1        | **100%**  | **100%**      |
-| Dia 2        | **100%**  | 0%     |
-| Dia 3        | Sendo traduzida | 0%    |
-| Dia 4        | 0%  | 0%    |
-| Dia 5        | 0%  | 0%    |
-| Ciel         | 0%  | 0%    |
-| Arcueid      | 0%  | 0%    |
-| Total        | 16% | 6%    |
+<!-- | Rota         | Traduzida | Revisão | -->
+<!-- |--------------|-----------|------------| -->
+<!-- | Prologo      | **100%%**  | **100%**      | -->
+<!-- | Dia 1        | **100%**  | **100%**      | -->
+<!-- | Dia 2        | **100%**  | 0%     | -->
+<!-- | Dia 3        | Sendo traduzida | 0%    | -->
+<!-- | Dia 4        | 0%  | 0%    | -->
+<!-- | Dia 5        | 0%  | 0%    | -->
+<!-- | Ciel         | 0%  | 0%    | -->
+<!-- | Arcueid      | 0%  | 0%    | -->
+<!-- | Total        | 16% | 6%    | -->
+
+Aguarde até o Natal.
 
 ---
 
@@ -49,7 +51,7 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 
 **HanabiWorks**
 
-- **Líder:** Rin chan
+- **Líder:** Thiago Tesouras
 - **Tradução:** Hakata (introdução e prólogo), mj-r2 e Unoxya (Arcueid), Thiago Tesouras e est (Ciel)
 - **Revisão:** Iskandar, Bruno Valentim
 - **Programação:** Rin chan
@@ -59,18 +61,18 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 - **Fansub gringa** - Ferramentas
 - **Type-Moon** - Pelo lançamento do jogo
 
-Nota: *Só foram mencionadas em HanabiWorks as pessoas que exerceram sua função em pelo menos 15% do projeto*
-
 ---
 
 ## Instalação
 
-**1-** Baixe o Patch abaixo
+O Patch será disponível no Natal.
 
-[Download](https://www.mediafire.com/file/7e9exdq9ng5xuos/Tsuki_PT-BR%2528Parcial%2529.rar/file)
-
-
-O restante das instruções se encontra dentro do arquivo acima
+<!-- **1-** Baixe o Patch abaixo -->
+<!---->
+<!-- [Download](https://www.mediafire.com/file/7e9exdq9ng5xuos/Tsuki_PT-BR%2528Parcial%2529.rar/file) -->
+<!---->
+<!---->
+<!-- O restante das instruções se encontra dentro do arquivo acima -->
 
 ---
 
