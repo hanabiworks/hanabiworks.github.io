@@ -51,9 +51,10 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 **HanabiWorks**
 
 - **Líder:** Cãomunista
-- **Tradução:** Hakata (introdução e prólogo), mj-r2 e Unoxya (Arcueid), Cãomunista e est (Ciel)
-- **Revisão:** Iskandar, Bruno Valentim
+- **Tradução:** Hakata (introdução e prólogo), mj-r2 e Unoxya (Arcueid), Cãomunista e est (Ciel), yoru
+- **Revisão:** Iskandar, Bruno Valentim, Hellise
 - **Programação:** Rin chan
+- **Apoio moral:** B3RN
 
 **Outros**
 
