@@ -65,14 +65,12 @@ Aguarde até o Natal.
 
 ## Instalação
 
-O Patch será disponível no Natal ao meio-dia.
+**1-** Baixe o Patch abaixo
 
-<!-- **1-** Baixe o Patch abaixo -->
-<!---->
-<!-- [Download](https://www.mediafire.com/file/7e9exdq9ng5xuos/Tsuki_PT-BR%2528Parcial%2529.rar/file) -->
-<!---->
-<!---->
-<!-- O restante das instruções se encontra dentro do arquivo acima -->
+[Download](https://t.ly/7zOvv)
+
+
+O restante das instruções se encontra dentro do arquivo acima
 
 ---
 
