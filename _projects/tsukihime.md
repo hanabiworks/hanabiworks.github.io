@@ -51,8 +51,8 @@ Aguarde até o Natal.
 
 **HanabiWorks**
 
-- **Líder:** Thiago Tesouras
-- **Tradução:** Hakata (introdução e prólogo), mj-r2 e Unoxya (Arcueid), Thiago Tesouras e est (Ciel)
+- **Líder:** Cãomunista
+- **Tradução:** Hakata (introdução e prólogo), mj-r2 e Unoxya (Arcueid), Cãomunista e est (Ciel)
 - **Revisão:** Iskandar, Bruno Valentim
 - **Programação:** Rin chan
 
@@ -65,7 +65,7 @@ Aguarde até o Natal.
 
 ## Instalação
 
-O Patch será disponível no Natal.
+O Patch será disponível no Natal ao meio-dia.
 
 <!-- **1-** Baixe o Patch abaixo -->
 <!---->
@@ -86,3 +86,16 @@ No momento não.
 
 #### Minha pergunta não está aqui
 Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.com/invite/ATTxJYuTvm) para obter mais ajuda.
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CG_tsuki-1.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CG_tsuki-2.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CG_tsuki-3.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>

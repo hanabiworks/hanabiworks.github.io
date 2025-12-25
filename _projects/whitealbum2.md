@@ -24,10 +24,27 @@ White Album 2 é um romance dramático que acompanha a história destes três pe
 
 ## Progresso
 
-| Tradução IC | Tradução CC | Tradução Coda | Revisão IC  |
-|-------------|-------------|---------------|-------------|
-| ❌ 0%       | ❌ 0%       | ❌ 0%         | ❌ 0%       |
+### Introdutory Chapter
 
+| Rota        | IC           | 
+|-------------|------------- |
+| Tradução    |  100%        |
+| Revisão     |  55,5%       | 
+
+### Closing Chapter
+
+| Rota        | Comum       | Koharu      | Chiaki        | Mari        | Setsuna 1    |
+|-------------|-------------|-------------|---------------|-------------| -------------|
+| Tradução    | 6,4%        | 100%        | 0%            | 64%         | 100%         |
+| Revisão     | 0%          | 0%          | 0%            | 0%          | 0%           |
+
+
+### CODA
+
+| Rota        | Comum       | Setsuna 2     | Kazusa Normal| Kazusa True|
+|-------------|-------------|---------------|------------- |------------|
+| Tradução    | 0%          | 0%            | 0%           | 0%         |
+| Revisão     | 0%          | 0%            | 0%           | 0%         |
 
 ---
 
@@ -67,12 +84,24 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/CG_WA2-4.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/CG_WA2-5.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/CG_WA2-6.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CG_WA2-7.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CG_WA2-10.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/CG_WA2-9.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
