@@ -28,18 +28,20 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 
 ## Progresso
 
-| Rota         | Traduzida | Revisão     |
-|--------------|-----------|------------ |
-| Prologo      | **100%**  | *???*       |
-| Ao           | **100%**  | **0%**      |
-| Shiroha      |  **100%   | 100%        |
-| Umi          |  **100%   | 0%          |
-| Shiki        |  **100%   | 0%          |
-| Tsumugi      | 100%        | 0%          |
-| Kamone       | 100%        | 0%          |
-| Minigames    | 100%        | 0%          |
-| Alka         | 100%        | 0%          |
-| Epilogo      | 100%        | 0%          |
+| Rota         | Traduzida | Revisão    |
+|--------------|-----------|------------|
+| Prologo      | 100%      | 100%       |
+| Ao           | 100%      | 0%         |
+| Shiroha      | 100%      | 100%       |
+| Umi          | 100%      | 0%         |
+| Shiki        | 100%      | 0%         |
+| Tsumugi      | 100%      | 0%         |
+| Shizuku      | 100%      | 0%         |
+| Miki         | 100%      | 0%         |
+| Kamone       | 100%      | 0%         |
+| Minigames    | 100%      | 0%         |
+| Alka         | 100%      | 0%         |
+| Epilogo      | 100%      | 0%         |
 
 
 ---
