@@ -34,14 +34,11 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 | Rota         | Traduzida | Revisão    |
 |--------------|-----------|------------|
 | Prologo      | 100%      | 100%       |
-| Dia 1        | 100%      | 100%       |
-| Dia 2        | 100%      | 100%       |
 | Dia 3        | 100%      | 100%       |
 | Dia 4        | 100%      | 100%       |
 | Dia 5        | 100%      | 100%       |
 | Ciel         | 0%        | 0%         |
 | Arcueid      | 100%      | 100%       |
-<!-- | Total        | 16% | 6%    | -->
 
 
 ---
@@ -51,7 +48,7 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 **HanabiWorks**
 
 - **Líder:** Cãomunista
-- **Tradução:** Hakata (introdução e prólogo), mj-r2 e Unoxya (Arcueid), Cãomunista e est (Ciel), yoru
+- **Tradução:** Hakata (introdução e prólogo), mj-r2, Unoxya, Cãomunista, est, yoru
 - **Revisão:** Iskandar, Bruno Valentim, Hellise
 - **Programação:** Rin chan
 - **Apoio moral:** B3RN
