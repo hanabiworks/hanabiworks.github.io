@@ -64,7 +64,7 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 
 **1-** Baixe o Patch abaixo
 
-[Download](https://t.ly/7zOvv)
+[Download](https://9VXPjv.short.gy/olPNQx4)
 
 
 O restante das instruções se encontra dentro do arquivo acima

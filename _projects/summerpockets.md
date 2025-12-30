@@ -52,7 +52,7 @@ Summer Pockets está situado em uma ilha isolada, chamada Torishirojima, que tem
 
 **Baixe o patch mais recente:**
 
-  Summer Pockets - `25/12/2025`: [Download](https://t.ly/ZNyzo)
+  Summer Pockets - `25/12/2025`: [Download](https://9VXPjv.short.gy/qEmnh5)
 
   *Patch parcial faltando revisão e imagens*
 
