@@ -99,7 +99,7 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
         {% include figure.liquid path="assets/img/CG_WA2-7.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-10.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/CG_WA2-11.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/CG_WA2-9.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
