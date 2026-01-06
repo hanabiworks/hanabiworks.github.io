@@ -4,7 +4,7 @@ permalink: /summerpockets/
 title: Summer Pockets
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_summerpockets2.jpg
-importance: 1
+importance: 3
 category: visual novel
 # related_publications: true
 images:

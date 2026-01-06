@@ -4,7 +4,7 @@ permalink: /tokimeki/
 title: Tokimeki Memorial - Forever With You
 description: Tradução em PT-BR da versão de Sega Saturn
 img: assets/img/capa_tokimeki.jpg
-importance: 3
+importance: 6
 category: visual novel
 # related_publications: true
 images:

@@ -4,7 +4,7 @@ permalink: /tsukihime/
 title: Tsukihime Remake
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_tsukihime.jpg
-importance: 5
+importance: 1
 category: visual novel
 # related_publications: true
 images:

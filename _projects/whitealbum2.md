@@ -4,7 +4,7 @@ permalink: /whitealbum2/
 title: White Album 2
 description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_whitealbum22.jpg
-importance: 4
+importance: 2
 category: visual novel
 # related_publications: true
 images:
