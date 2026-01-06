@@ -34,10 +34,7 @@ Entretanto, no dia seguinte, isso tudo se prova o contrario, com a garota se apr
 | Rota         | Traduzida | Revisão    |
 |--------------|-----------|------------|
 | Prologo      | 100%      | 100%       |
-| Dia 3        | 100%      | 100%       |
-| Dia 4        | 100%      | 100%       |
-| Dia 5        | 100%      | 100%       |
-| Ciel         | 0%        | 0%         |
+| Ciel         | 15%       | 0%         |
 | Arcueid      | 100%      | 100%       |
 
 
