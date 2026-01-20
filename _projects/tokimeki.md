@@ -35,7 +35,7 @@ Dizem que se uma garota declarar seu amor a você debaixo daquela árvore, você
 
 | Traduzido | Revisão    |
 |-----------|------------|
-| **10%**   | **0%**     |
+| **20%**   | **0%**     |
 
 ---
 
