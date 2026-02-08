@@ -55,7 +55,7 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 -  **Tradutor:** Leo
 -  **programador:** Leo
 -  **Revisor:** Kazuki
--  **Edição de gráfica:** Fujoneko
+-  **Edição gráfica:** Fujoneko
 
 ---
 
