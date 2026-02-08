@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /sanobawitch/
-title: Yosuga No Sora
+title: Sanoba Witch
 description: Tradução em PT-BR (Português do Brasil)
-img: assets/img/capa_yosuganosora.jpg
+img: assets/img/capa_sanoba.jpg
 importance: 1
 category: visual novel
 # related_publications: true
@@ -22,9 +22,6 @@ Para Hoshina Shuuji, as emoções humanas não são um mistério, mas um fardo. 
 
 ## Progresso
 
-### Introdutory Chapter
-
-### CODA
 
 | Rota        | Comum       | Tsumugi       | Meguru       | Touko      | Wakana    | Nene (true)     
 |-------------|-------------|---------------|------------- |------------|----------- -----------
@@ -57,31 +54,3 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 -  **programador:** Leo
 -  **Revisor:** Kazuki
 -  **Edição de imagem:** Fujoneko
-
-
-
-## Imagens
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-4.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-5.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-6.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-7.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-11.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CG_WA2-9.webp" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
