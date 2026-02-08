@@ -31,7 +31,7 @@ Para Hoshina Shuuji, as emoções humanas não são um mistério, mas um fardo. 
 ---
 
 ## Passos de Instalação:
-Baixe o patch e cole na pasta do jogo, substituindo os arquivos originais.
+Baixe o [patch](https://9VXPjv.short.gy/SafUks) e cole na pasta do jogo, substituindo os arquivos originais.
 
 ---
 
