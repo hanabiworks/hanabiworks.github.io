@@ -61,7 +61,7 @@ Use o arquivo `pt` dentro dele.
 Até o momento, tem o capítulo introdutório, os vídeos nele traduzidos e o começo do closing chapter (traduzido como "capítulo final".)
 
 #### O patch funciona se o meu jogo já estiver com a tradução em inglês aplicada?
-Sim! Apenas garanta que esteja usando o executável que vem no nosso patch.
+Sim! Apenas garanta que esteja usando o executável que vem no nosso patch (porém, não recomendamos isso, use uma instalação normal).
 
 #### Onde posso comprar o jogo?
 Se quiser digital, use VPN para algum local do Japão e compre pelo Fanza, ou adquira uma cópia física em plataformas como Zenmarket, Neokyo e afins. Não apoiamos pirataria!
