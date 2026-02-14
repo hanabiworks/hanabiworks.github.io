@@ -51,6 +51,8 @@ White Album 2 é um romance dramático que acompanha a história destes três pe
 ## Passos de Instalação:
 Baixe o [patch](https://9VXPjv.short.gy/DiA0es) e extraia na pasta do jogo, substituindo os arquivos originais.
 
+Use o arquivo `pt` dentro dele.
+
 ---
 
 ## Perguntas Frequentes
