@@ -57,8 +57,14 @@ Use o arquivo `pt` dentro dele.
 
 ## Perguntas Frequentes
 
-#### Por que não tem mais perguntas?
-Porque o admin tá com preguiça na véspera de natal.
+#### O que tem no patch?
+Até o momento, tem o capítulo introdutório, os vídeos nele traduzidos e o começo do closing chapter (traduzido como "capítulo final".)
+
+#### O patch funciona se o meu jogo já estiver com a tradução em inglês aplicada?
+Sim! Apenas garanta que esteja usando o executável que vem no nosso patch.
+
+#### Onde posso comprar o jogo?
+Se quiser digital, use VPN para algum local do Japão e compre pelo Fanza, ou adquira uma cópia física em plataformas como Zenmarket, Neokyo e afins. Não apoiamos pirataria!
 
 #### Minha pergunta não está aqui?
 Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.com/invite/ATTxJYuTvm) para obter mais ajuda.
