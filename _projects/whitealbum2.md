@@ -66,6 +66,9 @@ Sim! Apenas garanta que esteja usando o executável que vem no nosso patch (por�
 #### Onde posso comprar o jogo?
 Se quiser digital, use VPN para algum local do Japão e compre pelo Fanza, ou adquira uma cópia física em plataformas como Zenmarket, Neokyo e afins. Não apoiamos pirataria!
 
+#### Notei que algumas letras não têm acento, isso é algum erro de digitação?
+Infelizmente, caracteres em maiúsculo como `Á`, `À` e `Í` tiveram que ficar de fora por limitação da fonte que o jogo vem por padrão. Todos os acentos que estão no jogo existem por substituições que fizemos por caracteres já existentes (como cifra, asterisco, por aí vai). Fizemos essas substituições até restar apenas caracteres essenciais que não podemos remover, com apenas `Á` de essencial ficando de fora (usado, por exemplo, em "Áustria").
+
 #### Minha pergunta não está aqui?
 Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.com/invite/ATTxJYuTvm) para obter mais ajuda.
 
