@@ -27,7 +27,7 @@ Para Hoshina Shuuji, as emoções humanas não são um mistério, mas um fardo. 
 
 | Rota        | Comum       | Tsumugi       | Meguru       | Touko      | Wakana    | Nene (true)|
 |-------------|-------------|---------------|------------- |------------|----------- ------------|
-| Tradução    | 99%         | 100%          | 100%         | 0%         | 0%        | 0%         |
+| Tradução    | 99%         | 100%          | 100%         | 100%       | 100%      | 0%         |
 | Revisão     | 85%         | 0%            | 0%           | 0%         | 0%        | 0%         |
 
 ---
