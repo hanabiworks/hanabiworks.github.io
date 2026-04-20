@@ -2,7 +2,7 @@
 layout: page
 permalink: /whitealbum2/
 title: White Album 2
-description: Tradução em PT-BR (Português do Brasil) - Último progresso em 18/04/2026
+description: Tradução em PT-BR (Português do Brasil)
 img: assets/img/capa_whitealbum22.jpg
 importance: 2
 category: visual novel
@@ -23,6 +23,8 @@ White Album 2 é um romance dramático que acompanha a história destes três pe
 ---
 
 ## Progresso
+
+- Último progresso em 18/04/2026
 
 ### Introdutory Chapter
 
