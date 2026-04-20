@@ -2,7 +2,7 @@
 layout: page
 permalink: /whitealbum2/
 title: White Album 2
-description: Tradução em PT-BR (Português do Brasil)
+description: Tradução em PT-BR (Português do Brasil) - Último progresso em 18/04/2026
 img: assets/img/capa_whitealbum22.jpg
 importance: 2
 category: visual novel
@@ -35,8 +35,8 @@ White Album 2 é um romance dramático que acompanha a história destes três pe
 
 | Rota        | Comum       | Koharu      | Chiaki        | Mari        | Setsuna 1    |
 |-------------|-------------|-------------|---------------|-------------| -------------|
-| Tradução    | 10,6%       | 100%        | 0%            | 87,1%       | 100%         |
-| Revisão     | 0%          | 0%          | 0%            | 0%          | 0%           |
+| Tradução    | 17,2%       | 100%        | 11,7%         | 87,1%       | 100%         |
+| Revisão     | 4,6%        | 3,2%        | 3,4%          | 0%          | 0%           |
 
 
 ### CODA
@@ -79,7 +79,7 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 ##### **HanabiWorks**
 
 -  **Líderes:** Hakata, Gopicolo
--  **Tradutores:**  Hakata, Pingolas, Gopicolo, Mozer
+-  **Tradutores:**  Hakata, Pingolas, Gopicolo, Mozer, SummonG15
 -  **Revisores:** Hakata, Pingolas, Iskandar, Darksoner
 -  **Edição de imagem:** Fujoneko, Nathan
 -  **Edição de vídeo:** Ceuipsolon
@@ -88,6 +88,7 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 ##### **Agradecimentos**
 - Todokanai Translations, pela fonte de texto e a tradução em inglês.
 - E para o AbdAlgani, pela ajuda com as [ferramentas](https://github.com/abdalgani1/)
+Neko Belmont, Sagachi Belmont e Mysteriozo pelo[trailer com Todokanai Koi cantada em Português](https://youtu.be/rCIgxjwJsLg) existir
 
 ---
 
