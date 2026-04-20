@@ -89,8 +89,8 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 
 ##### **Agradecimentos**
 - Todokanai Translations, pela fonte de texto e a tradução em inglês.
-- E para o AbdAlgani, pela ajuda com as [ferramentas](https://github.com/abdalgani1/)
-Neko Belmont, Sagachi Belmont e Mysteriozo pelo[trailer com Todokanai Koi cantada em Português](https://youtu.be/rCIgxjwJsLg) existir
+- Neko Belmont, Sagachi Belmont e Mysteriozo pelo [trailer com Todokanai Koi cantada em Português](https://youtu.be/rCIgxjwJsLg) existir.
+- E para o AbdAlgani, pela ajuda com as [ferramentas](https://github.com/abdalgani1/).
 
 ---
 
