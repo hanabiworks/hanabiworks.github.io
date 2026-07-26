@@ -1,7 +1,7 @@
 ---
 layout: post
 title: White Album 2 — bastidores da tradução!
-date: 2026-03-08 00:33:13
+date: 2050-03-08 00:33:13
 description: Aqui, falamos sobre os bastidores da tradução. Quem são os envolvidos, algumas histórias e linha do tempo de eventos importantes, como a adaptação da abertura para o português brasileiro.
 tags: vn anúncio
 thumbnail: assets/img/thumbnail_post_01.gif
