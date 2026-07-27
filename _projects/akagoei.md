@@ -79,6 +79,8 @@ Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.co
 -  **Revisor:** Kazuki
 -  **Edição gráfica:** Fujoneko
 
+##### Outros
+- Daybreak pela tradução que foi usada como base.
 ---
 
 ## Imagens
