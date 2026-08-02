@@ -37,13 +37,13 @@ __Nota:__ _Localização dos elementos gráficos em andamento_
 | Rota     |Comum     |Aya       |Tsuki    | Tae     | Moe     |Reika    |Moe2     |
 |--------- |----------|--------- |---------|---------|---------|-------- |---------|
 | Tradução |100%      |100%      |100%     |100%     |100%     |100%     |100%     |
-| Revisão  |0%        |0%        |0%       |0%       | 0%      |0%       |0%       |
+| Revisão  |100%      |100%      |100%     |0%       | 0%      |0%       |0%       |
 
 ### A Day in the Life of the Ladies (Jogo 2)
 
 | Rota     |Prologo   |Aya       |Tsuki    | Tae     |  Moe    |Reika / Kyouka |
 |--------- |----------|--------- |---------|---------|---------|--------       |
-| Tradução |100%      |10%       |0%       |     0%  | 0%      |    0%         |
+| Tradução |100%      |100%      |0%       |     0%  | 0%      |    0%         |
 | Revisão  |0%        |0%        |0%       |    0%   | 0%      |    0%         |
 
 ### Twilight Judgement (Final da história)
