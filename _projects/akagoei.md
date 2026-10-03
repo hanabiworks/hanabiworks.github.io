@@ -62,7 +62,7 @@ Baixe o [patch](https://9vxpjv.short.gy/JvS4zA) e cole na pasta do jogo, substit
 ## Perguntas Frequentes
 
 #### Como faço para obter a versão android?
-[Patch android](https://drive.google.com/file/d/1y_ZKvieJQrw-C16x5f6oPiH0iyS8TNQT/view?usp=sharing)
+[Patch android](https://drive.google.com/file/d/1Abvk0yJuWUfa-QHyGdgxOnFMIQJr5gsk/view?usp=sharing)
 
 #### Minha pergunta não está aqui?
 Se sua pergunta não foi respondida, entre em nosso [Discord](https://discord.com/invite/ATTxJYuTvm) para obter mais ajuda.
