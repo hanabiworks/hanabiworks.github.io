@@ -41,10 +41,10 @@ __Nota:__ _Localização dos elementos gráficos em andamento_
 
 ### A Day in the Life of the Ladies (Jogo 2)
 
-| Rota     |Prologo   |Aya       |Tsuki    | Tae     |  Moe    |Reika / Kyouka |
-|--------- |----------|--------- |---------|---------|---------|--------       |
-| Tradução |100%      |100%      |0%       |     0%  | 0%      |    0%         |
-| Revisão  |0%        |0%        |0%       |    0%   | 0%      |    0%         |
+| Rota     |Prologo   |Aya       |Tsuki    | Tae     |  Moe    |Reika / Kyouka | Anzu/Verdadeira|
+|--------- |----------|--------- |---------|---------|---------|--------       | --------       |
+| Tradução |100%      |100%      |100%     |100%     | 100%    |   100%        |    100%        |
+| Revisão  |0%        |0%        |0%       |    0%   | 0%      |    0%         |     0%         |
 
 ### Twilight Judgement (Final da história)
 
